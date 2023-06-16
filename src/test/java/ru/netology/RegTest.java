@@ -12,7 +12,7 @@ import static ru.netology.DataGenerator.*;
 import static ru.netology.DataGenerator.Registration.getRegisteredUser;
 import static ru.netology.DataGenerator.Registration.getUser;
 
-public class vRegTest {
+public class RegTest {
 
     @BeforeEach
     void setUp() {
